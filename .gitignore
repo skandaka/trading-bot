@@ -1,0 +1,10 @@
+.env
+*.pyc
+__pycache__/
+.venv/
+local_data_cache/
+trained_models/
+.DS_Store
+*.log
+.idea/
+.vscode/

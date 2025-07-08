@@ -1,0 +1,16 @@
+# requirements.txt
+python-dotenv
+pandas
+numpy
+yfinance
+alpha-vantage
+scikit-learn
+xgboost
+joblib
+streamlit
+plotly
+pyarrow
+openpyxl
+requests
+azure-cosmos
+azure-storage-blob
